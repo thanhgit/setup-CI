@@ -23,4 +23,4 @@ $ docker-compose up -d
 ```
 
 ### Demo
-![alt text](doc/setup_jenkins_dashboard.png)
+![alt text](setupJenkinsDashboard.png)

@@ -9,4 +9,5 @@ This is a guide about CI workflow
 ### - Sonarqube
 
 ## Problems
-* [Set up Jenkins]('./doc/setup_jenkins.md')
+* [Set up Jenkins](doc/setup_jenkins.md)
+* [Plugins for Jenkins](doc/plugins4jenkins.md)
