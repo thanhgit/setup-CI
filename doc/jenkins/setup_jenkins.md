@@ -1,4 +1,8 @@
 # Set up Jenkins
+```text
+Jenkins is a self-contained, open source automation server,
+It can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+```
 ### Using docker-compose
 ```yaml
 version: '2'
