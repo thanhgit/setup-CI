@@ -1,7 +1,5 @@
 # MyCI
-```bash
 This is a guide about CI workflow
-```
 
 ## Technical stack
 * ### Jenkins
