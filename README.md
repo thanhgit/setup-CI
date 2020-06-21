@@ -9,7 +9,7 @@ This is a guide about CI workflow
 * ### Sonarqube
 * ### Gitlab
 
-## Overview architecture
+## Overview of networking architecture
 ![](doc/myci-networking.png)
 
 ## Problems
