@@ -1,7 +1,7 @@
 # Set up Artifactory
 JFrog Artifactory is a universal DevOps solution providing end-to-end automation.
 Management of binaries and artifacts through the application delivery process.
-It helps to improves productivity ac
+It helps to improves productivity activities
 
 ### Using docker-compose
 ```yaml
@@ -49,6 +49,12 @@ services:
       nofile:
         soft: 32000
         hard: 40000
+```
+
+### Default account access
+```text
+Username: admin
+Password: password
 ```
 
 ### Quickly
