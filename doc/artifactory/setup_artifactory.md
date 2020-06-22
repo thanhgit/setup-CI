@@ -63,3 +63,4 @@ $ docker-compose up -d
 ```
 
 ### Demo
+![Artifactory](setupArtifactory.png)
