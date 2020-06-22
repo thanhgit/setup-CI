@@ -49,7 +49,7 @@ volumes:
 ### Default account access
 ```text
 Username: admin
-Password: password
+Password: admin
 ```
 
 ### Quickly
