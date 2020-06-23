@@ -1,4 +1,4 @@
-# MyCI
+# Setup CI
 This is a guide about CI workflow
 
 ## Technical stack
@@ -13,6 +13,9 @@ This is a guide about CI workflow
 ## Problems
 * [Set up Jenkins](doc/jenkins/setup_jenkins.md)
 * [Plugins for Jenkins](doc/jenkins/plugins4jenkins.md)
+* [Create credentials for 3r-party (gitlab, github, articatory, ...)](doc/jenkins/createCredentials.md)
+* [Run maven project](doc/jenkins/runMavenProject.md)
+* [Run go project](doc/jenkins)
 ---
 * [Set up Artifcatory](doc/artifactory/setup_artifactory.md)
 ---
