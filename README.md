@@ -24,6 +24,11 @@ This is a guide about CI workflow
 * [Set up Sonarqube](doc/sonarqube/setup_sonarqube.md)
 
 ## Utility in centos 7 context
+#### Explained sSL
+- TLS (Transport layer secure) is based on SSL, is known as SSLv3
+- SSL/TLS provides data encryption, data integrity and authentication
+- SSL/TLS use public and private key system for data encryption and data integrity 
+- Reference: http://www.steves-internet-guide.com/ssl-certificates-explained/
 #### Setup docker
 ```text
 $ sudo yum install -y yum-utils
