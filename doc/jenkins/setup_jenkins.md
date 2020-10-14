@@ -18,6 +18,8 @@ services:
       JAVA_OPTS: "-Djava.awt.headless=true"
     volumes:
       - '/data/jenkins/data:/var/jenkins_home'
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/local/bin/docker:/usr/local/bin/docker
 
 ```
 
